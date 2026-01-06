@@ -1,6 +1,6 @@
 # ☕ Maid Cafe Dating Sim
 
-A charming Discord-based dating simulator set in an anime maid cafe. Chat with three adorable maids, build relationships, and unlock romantic endings!
+A charming terminal-based dating simulator set in an anime maid cafe. Chat with three adorable maids, build relationships, and unlock romantic endings!
 
 ## ✨ Features
 
