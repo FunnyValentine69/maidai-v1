@@ -1,6 +1,6 @@
 # Maid Cafe Bot
 
-A Discord-based anime maid cafe dating simulator featuring three unique maid characters with distinct personalities, an affection system, and dynamic AI-powered conversations.
+A terminal-based anime maid cafe dating simulator featuring three unique maid characters with distinct personalities, an affection system, and dynamic AI-powered conversations.
 
 ## Project Overview
 
@@ -55,7 +55,7 @@ This is an interactive dating sim set in a cozy maid cafe where players can chat
 - **AI Backend:** Ollama (local LLM)
 - **Model:** llama3.2
 - **Response Strategy:** Hardcoded responses for speed, AI fallback for flexibility
-- **Data Persistence:** Tracks user affection and progress
+- **Data Persistence:** None (session-based, resets on restart)
 
 ## Current Status
 
@@ -71,7 +71,7 @@ This is an interactive dating sim set in a cozy maid cafe where players can chat
 
 - **ZZZ-style character artwork** - Add visual character portraits inspired by Zenless Zone Zero's art style
 - **Visual novel UI** - Potential upgrade to a full visual novel interface
-- **GitHub repository** - Public release for the community
+- **Additional maids** - Expand the cafe staff
 
 ---
 
