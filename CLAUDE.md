@@ -1,4 +1,4 @@
-# Maid Cafe Bot
+# Maid Cafe Dating Sim
 
 A terminal-based anime maid cafe dating simulator featuring three unique maid characters with distinct personalities, an affection system, and dynamic AI-powered conversations.
 
@@ -26,7 +26,7 @@ This is an interactive dating sim set in a cozy maid cafe where players can chat
 ## Key Features
 
 ### Affection System
-- Each maid tracks individual affection points per user
+- Each maid tracks individual affection points per session
 - **Thresholds:**
   - 10 points - Maid starts warming up to you
   - 25 points - Friendship level unlocked
@@ -56,6 +56,7 @@ This is an interactive dating sim set in a cozy maid cafe where players can chat
 - **Model:** llama3.2
 - **Response Strategy:** Hardcoded responses for speed, AI fallback for flexibility
 - **Data Persistence:** None (session-based, resets on restart)
+- **Dependencies:** See `requirements.txt`
 
 ## Current Status
 
@@ -72,6 +73,8 @@ This is an interactive dating sim set in a cozy maid cafe where players can chat
 - **ZZZ-style character artwork** - Add visual character portraits inspired by Zenless Zone Zero's art style
 - **Visual novel UI** - Potential upgrade to a full visual novel interface
 - **Additional maids** - Expand the cafe staff
+- **Voice lines** - Character audio
+- **Save system** - Persistent affection across sessions
 
 ---
 

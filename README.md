@@ -79,7 +79,7 @@ From shy whispers to playful teasing — each maid stays in character with uniqu
 ## 🚀 Quick Start
 
 > [!IMPORTANT]
-> Requires [Ollama](https://ollama.ai/) running locally with the `llama3.2` model.
+> Requires [Ollama](https://ollama.com/) running locally with the `llama3.2` model.
 
 ```bash
 # Clone the repo
